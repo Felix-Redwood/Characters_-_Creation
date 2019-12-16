@@ -44,9 +44,14 @@ body {
 
 .links-container {}
 
-.main-description-container {
+.description-container-brown {
     background-color: #968D81;
     color: #e6e6e6;
+}
+
+.description-container-grey {
+    background-color: #e6e6e6;
+    color: #000;
 }
 
 /* Page Headers */
@@ -180,27 +185,18 @@ body {
 
 /* Alerts */
 
-.description-white-text {
+.description-text {
     margin: 20px;
     text-align: justify;
     margin-bottom: 40px;
 }
 
-.description-white-text i {
+.description-text i {
     margin-bottom: 20px;
     font-size: 45px;
     line-height: 45px;
 }
 
-.description-white-text .btn {
-    background-color: white;
-    border-color: white;
-    border-radius: 15px;
-    min-width: 100px;
-    font-weight: bold;
-    margin-top: 10px !important;
-    color: #f05f40;
-}
 
 .dropdown-menu {
     list-style: none;
