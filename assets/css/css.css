@@ -180,19 +180,19 @@ body {
 
 /* Alerts */
 
-.feature {
+.description-white-text {
     margin: 20px;
     text-align: justify;
     margin-bottom: 40px;
 }
 
-.feature i {
+.description-white-text i {
     margin-bottom: 20px;
     font-size: 45px;
     line-height: 45px;
 }
 
-.feature .btn {
+.description-white-text .btn {
     background-color: white;
     border-color: white;
     border-radius: 15px;
