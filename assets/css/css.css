@@ -63,6 +63,9 @@ body {
 
 .page-header h2 {
     margin-top: 0;
+    margin-left: 20px;
+    margin-right: 0;
+    padding-right: 0;
 }
 
 .main-links .page-header {
@@ -264,4 +267,14 @@ footer {
 .green-link {
     text-decoration: none;
     color: #194d19;
+}
+
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
+.col-12 {
+    padding: 0;
+    margin: 0;
 }
