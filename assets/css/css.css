@@ -139,6 +139,12 @@ body {
     font-weight: bold;
 }
 
+#navbarNavDropdown {
+    position: fixed;
+    right: 10px;
+    
+}
+
 /*Jumbotron*/
 
 .jumbotron {
