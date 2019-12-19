@@ -157,6 +157,7 @@ Content:
 
 * The text for the page ‘Feats’ was copied from [http://www.jsigvard.com/dnd/Feats.html](http://www.jsigvard.com/dnd/Feats.html)
 * The information about D&D races and classes came from the ‘[5e character](https://play.google.com/store/apps/details?id=com.dungeon.dev.a5echaracter&hl=en_US)’ app by Dungeon Dev on the Google Play store.
+* The base code and classes were taken from the Code Institute Whiskey Drop site that I was helped to build.
 
 Media:
 
