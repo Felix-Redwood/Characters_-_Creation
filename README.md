@@ -167,5 +167,4 @@ Media:
 Acknowledgements:
 
 * I received inspiration for this project from the [critical role](https://www.youtube.com/channel/UCpXBGqwsBkpvcYjsJBQ7LEQ) cast:.
-* I received constant support from both my girlfriend and family while this site was being designed, something that was necessary given my struggles with my health during the creation of the site. A special thank you to all those who helped me while I created this site.
 * I gained the necessary knowledge of coding required to make this site from the [Code Institute](https://codeinstitute.net/), Dublin and their Full Stack Web Developer course.
