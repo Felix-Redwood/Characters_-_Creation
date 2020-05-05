@@ -141,9 +141,6 @@ FAQ:
 Q: Will you keep working on the site?  
 A: Yes! There are a lot of additions to the site I plan to make.
 
-Q: How can I contact you?  
-A: My email is felix@grahamredwood.com. It is posted in the footer of the site and clicking on that link will open an email addressed to me.
-
 Q: Why don’t you have proper statistics or descriptions of rules, etc?  
 A: This site is generally designed for newer players or DMs, and focuses more on the descriptions, aesthetics and roles of the different races and classes instead of their mechanics or statistics. This is so that newer players/DMs don’t get overwhelmed by the amount of information thrown their way.
 
